@@ -16,7 +16,7 @@ const io = new Server(server, {
   cors: '*',
 });
 
-// readStream of the file text.txt
+// readStream from file text.txt
 const reader = fs.createReadStream('text.txt');
 
 io.on("connect", () => {
