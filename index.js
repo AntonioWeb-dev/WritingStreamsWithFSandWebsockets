@@ -1,6 +1,6 @@
 /**
- * This it is a use websoockets and fs module
- * to desmostrate how can you write chunk in a file sending throughout websockets
+ * websoockets and fs module
+ * to demonstrate how can you write chunks that was sent through websockets
  */
 const express = require("express");
 const http = require("http");
