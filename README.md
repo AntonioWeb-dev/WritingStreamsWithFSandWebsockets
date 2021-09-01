@@ -1,5 +1,5 @@
 # Writing Streams With fs and Websockets
-  This code it is a simple example of how could write a file through websockets
+  This code it is a simple example of how could write a file through streams and websockets
 
 # How this code work
   <strong>First</strong>: Create a server using express and the module http, then create new instance of websockets to create a real-time server.<br/>
